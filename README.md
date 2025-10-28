@@ -7,13 +7,9 @@
 </p>
 <h2>Texto de apresentação</h2>
 <p>
-  Olá! Meu nome é [Seu Nome] e sou profissional de informática, apaixonado por tecnologia e por tudo o que envolve inovação digital. Desde cedo, desenvolvi interesse por computadores, redes e desenvolvimento de sistemas, o que me levou a seguir carreira na área de Tecnologia da Informação.
+  Olá! Sou [Seu Nome], profissional de informática com grande interesse por tecnologia, inovação e aprendizado constante. Atuo nas áreas de suporte técnico, manutenção de computadores, redes e desenvolvimento de sistemas, buscando sempre oferecer soluções práticas e eficientes.
 
-Ao longo da minha trajetória, adquiri experiência em manutenção de computadores, suporte técnico, redes, e desenvolvimento de software, sempre buscando unir eficiência técnica com soluções práticas para o dia a dia das pessoas e empresas.
+Tenho como principais características a dedicação, responsabilidade e curiosidade por novas ferramentas e tendências. Acredito que a tecnologia é uma aliada poderosa para transformar ideias em resultados e facilitar o dia a dia de pessoas e empresas.
 
-Sou uma pessoa curiosa, dedicada e comprometida com a qualidade do meu trabalho. Acredito que a tecnologia deve ser uma aliada para simplificar processos e gerar oportunidades, e é com esse propósito que atuo em cada projeto.
-
-Atualmente, continuo me aprimorando em novas linguagens, ferramentas e metodologias, mantendo-me atualizado com as tendências do mercado e com as necessidades do mundo digital moderno.
-
-Seja para resolver problemas técnicos, implementar sistemas ou desenvolver soluções personalizadas, estou sempre pronto para transformar desafios em resultados.
+Meu objetivo é continuar evoluindo profissionalmente, aprimorando meus conhecimentos e contribuindo para o crescimento dos projetos em que participo.
 </p>
