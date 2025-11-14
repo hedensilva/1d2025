@@ -13,6 +13,7 @@ Tenho como principais características a dedicação, responsabilidade e curiosi
 
 Meu objetivo é continuar evoluindo profissionalmente, aprimorando meus conhecimentos e contribuindo para o crescimento dos projetos em que participo.
 </p>
+<hr>
 <p>
   Exercicio - Lógica de Programação<br>
 <br>
