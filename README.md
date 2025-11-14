@@ -13,6 +13,20 @@ Tenho como principais características a dedicação, responsabilidade e curiosi
 
 Meu objetivo é continuar evoluindo profissionalmente, aprimorando meus conhecimentos e contribuindo para o crescimento dos projetos em que participo.
 </p>
+<p>
+  Exercicio - Lógica de Programação<br>
+<br>
+01) Em uma eleição presidencial, existem quatro candidatos. Os votos são informados por código. Os dados utilizados obedecem à seguinte codificação<br>
+  1, 2, 3, 4 = voto para um candidato<br>
+  5 = voto nulo<br>
+  6 = voto em branco<br><br>
+Elabore um algoritmo que calcule e escreva:<br>
+- o total de votos para cada candidato e seu porcentual sobre o total.<br>
+- o total de votos nulos e seu porcentual sobre o total<br>
+- o total de votos em branco e seu porcentual sobre o total.<br>
+<br>
+Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
+</p>
 
    
     
