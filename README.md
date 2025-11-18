@@ -28,7 +28,11 @@ Elabore um algoritmo que calcule e escreva:<br>
 <br>
 Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
 </p>
-
+<hr>
+<p>
+  Formulário para submeter link do site:<br>
+  https://forms.gle/6DeshX6RreJ2j2AD7
+</p>
    
     
   
