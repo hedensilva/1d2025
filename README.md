@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7a02d9b9-e6eb-455c-b91c-aba0625059fe" /><h1>EEEP Walter Ramos de Araujo - 2025</h1>
+<h1>EEEP Walter Ramos de Araujo - 2025</h1>
 <h2>Lógica de Programação</h2>
 <h3>Trabalho Avaliativo</h3>
 <p>
@@ -34,8 +34,10 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
   https://forms.gle/6DeshX6RreJ2j2AD7
 </p>
 <p>
-  Revisão - Lógica de Programação<br><br>
-  <img src='q1.png'>
+  Apostila - Lógica de Programação<br><br>
+  https://drive.google.com/file/d/1Weu-ON0i_S5ZM4DSQjR6AiIrXeVTa_k0/view?usp=sharing
+  Apostila - HTML/CSS<br><br>
+  https://drive.google.com/file/d/1Tmg6rvDzvlMSuquL9QN2zaTWh5p_KUVb/view?usp=sharing
 </p>
    
     
