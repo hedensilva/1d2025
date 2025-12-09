@@ -34,9 +34,10 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
   https://forms.gle/6DeshX6RreJ2j2AD7
 </p>
 <p>
-  Apostila - Lógica de Programação<br><br>
+  Apostila - Lógica de Programação<br>
   https://drive.google.com/file/d/1Weu-ON0i_S5ZM4DSQjR6AiIrXeVTa_k0/view?usp=sharing
-  Apostila - HTML/CSS<br><br>
+  <br><br>
+  Apostila - HTML/CSS<br>
   https://drive.google.com/file/d/1Tmg6rvDzvlMSuquL9QN2zaTWh5p_KUVb/view?usp=sharing
 </p>
    
