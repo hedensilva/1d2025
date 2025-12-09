@@ -35,7 +35,7 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
 </p>
 <p>
   Revisão - Lógica de Programação<br><br>
-
+  <img src='q1.png'>
 </p>
    
     
