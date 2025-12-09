@@ -45,7 +45,10 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
 </p>
 <p>
   Questionário - Revisão - HTML/CSS<br>
-  https://drive.google.com/file/d/1clGXTG4N6M4CRQFR5C3BLDLfZjxAEf8G/view?usp=sharing
+  https://drive.google.com/file/d/1clGXTG4N6M4CRQFR5C3BLDLfZjxAEf8G/view?usp=sharing<br>
+  <br>
+  Gabarito<br>
+  https://drive.google.com/file/d/1OLSjVtNEkdDLVZnJF9QBQ0hHmalYLttO/view?usp=sharing
 </p>
    
     
