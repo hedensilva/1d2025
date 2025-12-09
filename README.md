@@ -43,6 +43,10 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
   Apostila 02 - HTML/CSS<br>
   https://drive.google.com/file/d/1QqJyPQh98RWpPvdPFjwSPtskUjlHOeXy/view?usp=sharing
 </p>
+<p>
+  Questionário - Revisão - HTML/CSS<br>
+  https://drive.google.com/file/d/1clGXTG4N6M4CRQFR5C3BLDLfZjxAEf8G/view?usp=sharing
+</p>
    
     
   
