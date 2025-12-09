@@ -33,6 +33,11 @@ Como finalizador o conjunto de votos, tem-se o valor 0 (zero).
   Formulário para submeter link do site:<br>
   https://forms.gle/6DeshX6RreJ2j2AD7
 </p>
+<p>
+  Revisão - Lógica de Programação<br><br>
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d11e2b83-b9b5-4655-a50c-4d5144e4b680" />
+
+</p>
    
     
   
